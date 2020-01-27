@@ -1,0 +1,17 @@
+--------------
+Web.py Example
+--------------
+
+This simple project is built with web.py to demonstrate how easy web development is. In order to run this project, 
+you must have python and web.py framework installed in your local environment.
+
+To install web.py:
+	- http://webpy.org/
+
+How to run project:
+	- Go to src/ folder
+	- Open a terminal and write python controller.py
+	- Open a browser and test project from http://localhost:8080/
+
+For further questions, please send me email to:
+	sotuzun@gmail.com

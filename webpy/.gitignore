@@ -1,0 +1,7 @@
+*~
+
+# pydev files and directories
+.project
+.pydevproject
+
+*.pyc
